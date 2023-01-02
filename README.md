@@ -4,3 +4,4 @@ to learn morw about the git
 
 ## steps
 1. step
+git s
